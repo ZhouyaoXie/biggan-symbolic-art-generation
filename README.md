@@ -1,4 +1,4 @@
-# biggan-symbolic-art-generation
+# BigGAN Symbolic Art Generation With Small Datasets
 
 ![100_random_abstract](https://user-images.githubusercontent.com/29810416/156103088-b7189e64-c153-4d0d-99d2-f80d95882472.jpg)
 

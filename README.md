@@ -6,8 +6,8 @@
 
 This is the project repository for CMU 10-615 Art and Machine Learning Project 2. In this project, we fine-tuned a BigGAN model to generate symbolic and abstract paintings using the [WikiArt dataset on Kaggle](https://www.kaggle.com/ipythonx/wikiart-gangogh-creating-art-gan).
 
-The code in this repository is based on [this implementation](https://docs.google.com/document/d/1fbyA6RPusn2PiJagWwM1eanZLYPB2N8naEBR83Q8BHU/edit?usp=sharing) of the study
-[Image Generation from Small Datasets via Batch Statistics Adaptation](https://github.com/nogu-atsu/small-dataset-image-generation).
+The code in this repository is based on [this implementation](https://github.com/nogu-atsu/small-dataset-image-generation) of the study
+[Image Generation from Small Datasets via Batch Statistics Adaptation](https://arxiv.org/abs/1904.01774).
 
 # Our Team
 
